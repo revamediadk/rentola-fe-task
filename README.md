@@ -1,3 +1,68 @@
+# Rentola FE task
+
+**This task only measures your way of thinking and code quality and structure so no need to complicate it.**
+
+&nbsp;
+
+---
+
+**You are required to implement the following pages and modal**
+- List properties page
+- View property page
+- Add new property modal
+
+---
+
+
+&nbsp;
+
+# Task Technical requirements:
+
+## The task to be implemented using the following:
+- React.js
+- TypeScript
+- Should include tests for the code with any preferred tool
+- Any other tools needed
+
+---
+
+&nbsp;
+
+> `after finishing the task please create a PR on master`
+
+&nbsp;
+
+---
+# Pages & modals
+## 1- List properties page
+`The design can be inspired by https://rentola.com/for-rent, and the data needed will be from the add property modal, only the property card will be implemented so no need for the ads/signup for newsletter boxes also it is required on this page to have simple search functionality by Property Type, Number of bed Rooms`
+
+&nbsp;
+
+---
+
+## 2- view the property page
+`The design can be inspired by https://rentola.com/listings/te-huur-0577bc, and the data needed can be static, only the property information with a single image will be implemented.`
+
+&nbsp;
+
+---
+
+## 3- Add property modal
+`The fields can be inspired by https://rentola.com/listings/new, you can pick some of the fields needed for the index and the view also you can place the button that will trigger this modal on the listing page.`
+
+&nbsp;
+
+---
+
+## 4- Bonus
+- `Multiple images for the property`
+- `Pagination on the listing page`
+
+&nbsp;
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -28,43 +93,3 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
