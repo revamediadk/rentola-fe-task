@@ -1,0 +1,300 @@
+{
+  "properties": [
+    {
+      "id": "2e203634-c761-45f0-920b-e41da9f6bdc8",
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "type": "house",
+      "price": 829,
+      "city": "Zouerate",
+      "address": "Roxane Valley",
+      "isVerified": false,
+      "location": {
+        "latitude": -86.94719963324076,
+        "longitude": 58.365178182693256
+      },
+      "summary": "Amet labore nostrud minim nostrud duis dolore laborum ea incididunt id elit est. Quis dolor consequat cillum ea consequat Lorem minim ad. Est pariatur duis ex est tempor officia sunt nostrud enim. Culpa minim non Lorem officia. Ipsum consequat aute velit laborum ex excepteur. Veniam commodo do excepteur velit et proident anim incididunt. Fugiat veniam eiusmod proident qui incididunt ex nostrud in ullamco mollit elit est.",
+      "area": 51,
+      "image": [
+        "https://picsum.photos/1000/500?random=1",
+        "https://picsum.photos/1000/500?random=2"
+      ],
+      "caseNumber": 992504
+    },
+    {
+      "id": "98e00a94-e9ce-4054-a975-6fb9cde83477",
+      "bathrooms": 0,
+      "bedrooms": 2,
+      "type": "apartment",
+      "price": 520,
+      "city": "Zoravan",
+      "address": "Howe Keys",
+      "isVerified": false,
+      "location": {
+        "latitude": -48.799726050954185,
+        "longitude": -174.5694094299022
+      },
+      "summary": "Ex laborum reprehenderit mollit eu nostrud non. In ad eu ipsum duis enim et sunt commodo magna magna. Consequat exercitation nisi cillum deserunt. Occaecat nostrud mollit nulla irure. Labore dolore nulla cillum duis sit. Non eiusmod excepteur exercitation elit et laborum. Do do sint eiusmod ipsum nulla dolore qui aliquip laboris minim culpa eu sit. Deserunt commodo consequat in cupidatat id. Anim deserunt sint quis do id occaecat eiusmod excepteur labore irure non amet. Proident id dolor sit anim ad. Exercitation ex officia non occaecat ut Lorem minim Lorem. Do et proident sunt reprehenderit nostrud est nisi aliquip cillum culpa elit excepteur. Incididunt qui eu ullamco excepteur. Ipsum ea in nostrud cillum ad fugiat minim voluptate dolore tempor dolore deserunt aute veniam. Aute dolore ea ullamco aliquip. Consequat fugiat pariatur occaecat exercitation aliqua excepteur enim aute labore mollit. Sit amet occaecat cupidatat voluptate do reprehenderit laboris dolore et reprehenderit minim adipisicing minim sit. Quis et nisi esse enim dolor sit eiusmod incididunt qui qui esse sunt cillum. Reprehenderit duis officia commodo voluptate sunt exercitation veniam voluptate esse eiusmod aute.",
+      "area": 59,
+      "image": [
+        "https://picsum.photos/1000/500?random=3"
+      ],
+      "caseNumber": 558543
+    },
+    {
+      "id": "a8688cdb-0726-42f5-ba6d-fdec76f6c65c",
+      "bathrooms": 1,
+      "bedrooms": 3,
+      "type": "house",
+      "price": 1997,
+      "city": "Batangafo",
+      "address": "Gina Wells",
+      "isVerified": false,
+      "location": {
+        "latitude": -7.77787774062493,
+        "longitude": 91.3487738770711
+      },
+      "summary": "Aute amet amet culpa proident. Eu est exercitation reprehenderit reprehenderit sint aliquip nostrud aute aliqua et magna aute ad do. Ex commodo veniam consequat magna pariatur proident ex commodo aute irure ea culpa excepteur. Sit irure qui irure ut Lorem ex veniam. Deserunt pariatur laborum deserunt ut consectetur ullamco culpa esse dolore proident. Velit tempor deserunt fugiat sit laboris in et. Sit adipisicing tempor fugiat non anim ea id proident. Ex incididunt commodo voluptate laborum amet ea consectetur. Dolor excepteur reprehenderit voluptate quis. Veniam dolor mollit laborum id commodo. Elit sunt cillum aute nulla ut deserunt nisi est consectetur nostrud. Et magna elit ullamco nostrud proident exercitation in tempor cupidatat aliquip dolore. Magna labore voluptate pariatur elit mollit. Ad ex incididunt reprehenderit nostrud. Veniam exercitation qui nulla aliquip. Aute irure veniam amet nostrud minim ad qui. Est officia incididunt quis culpa consectetur labore proident esse consectetur mollit aute laborum cillum labore. Lorem qui mollit cupidatat eu tempor aliqua eiusmod commodo eiusmod aliqua velit. Cupidatat consectetur consequat voluptate laboris cillum sint enim tempor deserunt deserunt nisi dolor duis incididunt. Pariatur tempor magna excepteur Lorem sint do labore sint commodo qui irure.",
+      "area": 60,
+      "image": [
+        "https://picsum.photos/1000/500?random=4",
+        "https://picsum.photos/1000/500?random=5",
+        "https://picsum.photos/1000/500?random=6"
+      ],
+      "caseNumber": 784160
+    },
+    {
+      "id": "7c7b837f-6022-47df-b6bf-05730c6c261e",
+      "bathrooms": 1,
+      "bedrooms": 5,
+      "type": "loft",
+      "price": 1895,
+      "city": "Saint-Pierre",
+      "address": "Verdie Mews",
+      "isVerified": false,
+      "location": {
+        "latitude": 32.237683176454965,
+        "longitude": 53.73266993899401
+      },
+      "summary": "Excepteur incididunt sint irure velit labore dolor dolore voluptate occaecat ea aliqua labore velit. Id dolor consequat occaecat in duis amet sunt. Anim dolore et fugiat cupidatat ullamco non ullamco officia nulla incididunt fugiat. Duis reprehenderit do ut amet ex deserunt amet. Sunt aliqua magna deserunt amet eu laborum anim duis tempor. Dolore elit nostrud aute Lorem adipisicing eu cillum ut esse magna consectetur eiusmod id voluptate. Aliqua consequat adipisicing velit culpa occaecat ipsum Lorem non deserunt exercitation id ex consectetur. Duis excepteur laborum dolor occaecat dolore quis reprehenderit aliquip ea culpa. Consequat occaecat dolor aute officia deserunt reprehenderit. Fugiat fugiat aliquip aute fugiat eu qui officia pariatur laborum consequat irure culpa. Non ullamco magna esse non. Laboris mollit est laborum culpa sint duis cillum. Ea ipsum quis labore consequat.",
+      "area": 88,
+      "image": [
+        "https://picsum.photos/1000/500?random=7",
+        "https://picsum.photos/1000/500?random=8",
+        "https://picsum.photos/1000/500?random=9"
+      ],
+      "caseNumber": 487866
+    },
+    {
+      "id": "5cfd921e-70ae-4060-b1b9-0f4996896a52",
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "type": "loft",
+      "price": 1549,
+      "city": "Mariënburg",
+      "address": "Evans Roads",
+      "isVerified": true,
+      "location": {
+        "latitude": 57.77141002839346,
+        "longitude": -95.568019770035
+      },
+      "summary": "Laborum voluptate ex nulla et. Officia mollit velit laborum nostrud consequat fugiat amet culpa sit consectetur in cillum. Tempor est adipisicing occaecat velit anim incididunt aute occaecat esse. Cupidatat consectetur irure ipsum sint occaecat deserunt in dolore magna velit adipisicing exercitation pariatur. Ad et excepteur do anim qui nisi anim occaecat culpa cillum ipsum consectetur anim consectetur. Irure ipsum fugiat in qui reprehenderit laboris eiusmod consectetur aliquip sint ullamco anim. Nulla pariatur incididunt ad irure sunt adipisicing pariatur do irure magna incididunt commodo officia duis.",
+      "area": 66,
+      "image": [
+        "https://picsum.photos/1000/500?random=10",
+        "https://picsum.photos/1000/500?random=11",
+        "https://picsum.photos/1000/500?random=12"
+      ],
+      "caseNumber": 905708
+    },
+    {
+      "id": "8e0ec0c5-cac5-4f8e-9697-200501e91664",
+      "bathrooms": 0,
+      "bedrooms": 3,
+      "type": "loft",
+      "price": 2151,
+      "city": "McMurdo Station",
+      "address": "Keeling Plains",
+      "isVerified": true,
+      "location": {
+        "latitude": 25.912859985979395,
+        "longitude": -16.82145114730764
+      },
+      "summary": "Duis elit culpa cupidatat laboris ipsum amet excepteur ad ullamco Lorem. Anim ullamco elit ex Lorem nostrud deserunt non proident qui proident eu. Qui adipisicing velit ipsum eiusmod sit occaecat. Ullamco occaecat excepteur ex consectetur nisi. Sunt do elit Lorem irure. Enim Lorem mollit labore dolor. Aliquip elit incididunt est duis consectetur anim officia aute adipisicing duis laboris ad. Id eu id reprehenderit ex dolore mollit commodo. Voluptate veniam ut do minim reprehenderit sit aute adipisicing consequat dolor. Dolor sunt labore aute magna ex.",
+      "area": 50,
+      "image": [
+        "https://picsum.photos/1000/500?random=13",
+        "https://picsum.photos/1000/500?random=14"
+      ],
+      "caseNumber": 850078
+    },
+    {
+      "id": "e15c9951-e539-479f-8816-19cad5bbaf91",
+      "bathrooms": 1,
+      "bedrooms": 3,
+      "type": "house",
+      "price": 1921,
+      "city": "McMurdo Station",
+      "address": "Cartwright Alley",
+      "isVerified": true,
+      "location": {
+        "latitude": 74.1940540588239,
+        "longitude": 96.85751221380718
+      },
+      "summary": "Consequat velit mollit tempor exercitation proident nostrud enim ullamco ex. Adipisicing irure velit elit cupidatat eu dolore consectetur amet duis reprehenderit. Proident proident quis officia laboris eu. Nisi id sunt consectetur labore nulla anim nostrud dolore. Anim nostrud anim ut esse id aute ipsum irure fugiat occaecat laboris. Sit exercitation magna ex ea occaecat proident exercitation qui labore labore dolore commodo exercitation laborum. Nulla aute sunt velit labore occaecat proident irure cillum ut. Magna velit amet fugiat exercitation adipisicing aliqua. Nisi aute mollit eu voluptate officia amet deserunt aliquip incididunt. Nostrud aliqua do id ex nisi. Quis tempor Lorem reprehenderit nostrud pariatur cillum ex labore. Ea sunt esse proident occaecat irure duis dolore duis sint ut ex nulla nulla id. Exercitation est esse in commodo pariatur sit non Lorem fugiat ullamco veniam. Qui tempor mollit in do occaecat mollit adipisicing reprehenderit consectetur adipisicing mollit nostrud. Et duis eiusmod fugiat ut ea pariatur nulla ut sint. Labore incididunt ea officia ullamco veniam ad adipisicing veniam eiusmod laboris mollit occaecat. Minim laborum ad ipsum voluptate sunt aute eiusmod consequat esse incididunt incididunt. Eu est culpa occaecat eiusmod id eiusmod aute magna. Magna proident reprehenderit eu ullamco deserunt adipisicing exercitation anim adipisicing magna Lorem dolor. Officia ut nostrud adipisicing enim.",
+      "area": 52,
+      "image": [
+        "https://picsum.photos/1000/500?random=15"
+      ],
+      "caseNumber": 899888
+    },
+    {
+      "id": "e172913c-38ef-4605-b14e-83fcb5b7d810",
+      "bathrooms": 2,
+      "bedrooms": 4,
+      "type": "duplex",
+      "price": 1880,
+      "city": "Betio Village",
+      "address": "Hilpert Expressway",
+      "isVerified": false,
+      "location": {
+        "latitude": 54.36733995809601,
+        "longitude": -78.72302866095879
+      },
+      "summary": "Elit ut Lorem excepteur reprehenderit cupidatat et ut ipsum est eiusmod consectetur ex. Enim cillum laboris pariatur aliqua adipisicing magna nostrud velit laboris aliqua Lorem voluptate. Irure officia labore ex dolor do tempor sint. Veniam mollit magna reprehenderit mollit. Mollit eiusmod adipisicing aliquip aliquip cupidatat pariatur laboris culpa aute culpa qui dolore ipsum. Ea qui quis minim laborum non consequat labore irure consequat ex veniam qui. Lorem ut esse velit minim. Lorem irure ex sunt dolore consectetur et nulla dolore dolor laboris commodo duis incididunt occaecat. Minim anim mollit duis minim tempor anim qui ad id aliquip duis Lorem mollit. Reprehenderit sit laboris qui magna aliquip in officia sit sint veniam cillum fugiat. Ut veniam reprehenderit non tempor. In ex culpa fugiat aliquip exercitation voluptate proident proident sit officia commodo pariatur mollit cupidatat. Fugiat nulla aute quis laborum amet enim ea laborum adipisicing. Culpa eiusmod officia enim quis est aliquip id mollit amet Lorem irure aliqua. Lorem fugiat amet Lorem do id quis enim qui et.",
+      "area": 42,
+      "image": [
+        "https://picsum.photos/1000/500?random=16",
+        "https://picsum.photos/1000/500?random=17"
+      ],
+      "caseNumber": 215162
+    },
+    {
+      "id": "4724f451-8420-481c-9455-a669a59af035",
+      "bathrooms": 2,
+      "bedrooms": 2,
+      "type": "loft",
+      "price": 2339,
+      "city": "Méniko",
+      "address": "Leland Cliff",
+      "isVerified": true,
+      "location": {
+        "latitude": 21.030865106763187,
+        "longitude": 78.91998782459729
+      },
+      "summary": "Ipsum id ea minim ullamco veniam irure exercitation et enim ad sint voluptate nisi cillum. Velit ut adipisicing dolor excepteur proident ipsum velit. Non nulla ullamco duis veniam eiusmod aliqua labore laboris sint tempor dolore magna proident ad. Adipisicing qui duis qui proident eu sint. Est voluptate deserunt commodo reprehenderit nisi id occaecat ex magna do. Irure consequat magna consequat in minim labore fugiat. Excepteur irure dolor quis enim deserunt duis. Elit elit ex reprehenderit qui sint dolore est fugiat labore deserunt tempor quis excepteur. Proident et nisi est amet officia deserunt aliquip qui commodo dolor sit laborum ea. Nulla ex exercitation aute in velit. Occaecat duis ullamco deserunt ea anim consectetur commodo. Non proident do eiusmod et velit Lorem do ipsum aliqua id aute quis tempor occaecat. Anim reprehenderit labore ullamco Lorem ex sit qui eu ex. Sit quis ut pariatur laboris veniam voluptate nulla ipsum fugiat consequat Lorem. Do non consectetur consectetur voluptate nisi consectetur exercitation irure reprehenderit adipisicing commodo.",
+      "area": 55,
+      "image": [
+        "https://picsum.photos/1000/500?random=18"
+      ],
+      "caseNumber": 876492
+    },
+    {
+      "id": "66f7423a-24cd-47bd-baec-56b72174eb32",
+      "bathrooms": 1,
+      "bedrooms": 4,
+      "type": "house",
+      "price": 556,
+      "city": "An Nādirah",
+      "address": "Moore Gateway",
+      "isVerified": true,
+      "location": {
+        "latitude": -12.34984523865343,
+        "longitude": -133.4295916632816
+      },
+      "summary": "Eiusmod consectetur eu ea et labore ea magna minim reprehenderit. Sit culpa excepteur id reprehenderit eiusmod. Dolor cupidatat sunt ea exercitation ex id aute irure amet quis. Incididunt eiusmod incididunt do cillum consectetur duis reprehenderit incididunt sit. Aliquip ea anim eu elit amet dolor nostrud ad quis mollit voluptate mollit esse Lorem. Eiusmod dolor consectetur nulla fugiat laborum commodo sint magna. Adipisicing culpa eu veniam magna ea occaecat ullamco id est magna minim mollit excepteur. Aliqua qui mollit qui in commodo velit. Lorem eiusmod aute consequat et labore do dolore. Reprehenderit laborum et exercitation duis ut elit ullamco anim id amet excepteur amet tempor eiusmod. Duis ut commodo ipsum anim id. Nisi tempor nostrud duis exercitation nulla officia. Mollit aute consequat esse non consectetur laborum sunt veniam et culpa nisi quis dolor reprehenderit. Ea nulla ullamco non minim ullamco deserunt reprehenderit consequat Lorem aute aliqua consequat. Ad anim velit aute aliqua elit labore nisi occaecat eiusmod elit officia exercitation qui. Duis sit nisi nostrud dolor cupidatat dolor culpa dolore labore cupidatat sunt exercitation ad tempor. Officia quis consectetur laboris quis occaecat et occaecat ullamco ea minim aliquip magna. Cillum consectetur nisi mollit pariatur duis cillum. Veniam officia mollit esse sint veniam aliqua dolor commodo voluptate eiusmod duis duis ea minim.",
+      "area": 79,
+      "image": [
+        "https://picsum.photos/1000/500?random=19",
+        "https://picsum.photos/1000/500?random=20",
+        "https://picsum.photos/1000/500?random=21"
+      ],
+      "caseNumber": 629220
+    },
+    {
+      "id": "b2b5518a-c9bf-4451-94df-53f7872e3f7e",
+      "bathrooms": 2,
+      "bedrooms": 4,
+      "type": "apartment",
+      "price": 821,
+      "city": "Banamba",
+      "address": "DuBuque Parkway",
+      "isVerified": false,
+      "location": {
+        "latitude": -37.561192234922764,
+        "longitude": 22.513179029980193
+      },
+      "summary": "Nisi labore sunt cillum ad occaecat proident aute. Sint commodo enim ea anim. Excepteur enim est et aliqua anim nostrud. Adipisicing est adipisicing ullamco ad. Eu dolor id magna consectetur. Sint proident aliqua sunt est Lorem sint adipisicing eiusmod nostrud eu. Laborum aliquip aute velit pariatur mollit. Esse ea reprehenderit sunt ut duis.",
+      "area": 61,
+      "image": [
+        "https://picsum.photos/1000/500?random=22",
+        "https://picsum.photos/1000/500?random=23"
+      ],
+      "caseNumber": 603219
+    },
+    {
+      "id": "70846355-3f51-4840-8a27-f45618321703",
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "type": "room",
+      "price": 1557,
+      "city": "Aasiaat",
+      "address": "Berge River",
+      "isVerified": true,
+      "location": {
+        "latitude": -42.903785189054425,
+        "longitude": 70.1402144355452
+      },
+      "summary": "Irure anim officia tempor culpa amet. Eu in consequat veniam consectetur sit occaecat anim. Velit pariatur sint voluptate quis. Anim consectetur do anim dolor aute nulla nostrud adipisicing id eiusmod quis enim duis proident. Lorem quis aute adipisicing fugiat do. Fugiat pariatur id consectetur nostrud id. Occaecat anim ullamco nostrud ad adipisicing ipsum mollit laborum laboris quis amet proident. Nulla deserunt in anim irure duis veniam amet.",
+      "area": 94,
+      "image": [
+        "https://picsum.photos/1000/500?random=24",
+        "https://picsum.photos/1000/500?random=25",
+        "https://picsum.photos/1000/500?random=26"
+      ],
+      "caseNumber": 228507
+    },
+    {
+      "id": "d2368322-772c-472d-99ca-c4ef36633454",
+      "bathrooms": 1,
+      "bedrooms": 4,
+      "type": "house",
+      "price": 777,
+      "city": "Gustavia",
+      "address": "McLaughlin Freeway",
+      "isVerified": false,
+      "location": {
+        "latitude": -13.406621676397023,
+        "longitude": 36.84227875413117
+      },
+      "summary": "Laborum commodo aliqua velit in deserunt nisi nostrud. Cupidatat cupidatat exercitation laborum esse deserunt sunt esse esse veniam. Ipsum aliquip eu ut excepteur occaecat irure dolore est ut pariatur in commodo cupidatat. Non laborum est id exercitation in quis dolore. Voluptate occaecat id esse magna adipisicing est aliquip eiusmod eiusmod dolor. Sint velit aliqua Lorem veniam ipsum laboris exercitation nulla aliqua deserunt commodo eiusmod aliquip quis. Tempor eu id fugiat consequat deserunt do est duis ex excepteur tempor officia pariatur in. Esse deserunt reprehenderit incididunt dolor ea. Consectetur adipisicing laborum dolore anim exercitation culpa velit duis adipisicing est esse veniam aliqua. Nisi veniam adipisicing sunt sint. Laboris enim quis deserunt minim elit reprehenderit elit ex ea dolor ex consequat eu proident. Et labore occaecat labore magna voluptate eiusmod amet duis ullamco commodo dolore voluptate do est.",
+      "area": 95,
+      "image": [
+        "https://picsum.photos/1000/500?random=27"
+      ],
+      "caseNumber": 824007
+    },
+    {
+      "id": "e58cd7fb-d216-4588-8e1a-45f55ec3cef6",
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "type": "apartment",
+      "price": 2245,
+      "city": "Rygge",
+      "address": "Penelope Burg",
+      "isVerified": false,
+      "location": {
+        "latitude": -32.51125707789037,
+        "longitude": 164.1997486755921
+      },
+      "summary": "Reprehenderit proident ipsum voluptate incididunt. Commodo voluptate sint do duis ex id laborum incididunt in non. Irure consectetur adipisicing est commodo et aute amet do anim voluptate fugiat. Cupidatat cupidatat amet do nostrud nulla officia ex elit aliqua veniam. Voluptate cupidatat sit in dolor culpa consectetur incididunt pariatur incididunt. Elit aute sunt cillum dolore minim sit anim excepteur. Nulla cillum consectetur ad id enim sunt amet Lorem amet. Fugiat voluptate qui ipsum sit ullamco sit fugiat est culpa sunt nostrud voluptate sit. Ipsum ea tempor quis sit fugiat adipisicing dolore proident quis consectetur aliqua deserunt. Consectetur consectetur nulla ipsum est. Proident quis laborum sunt irure. Amet Lorem do deserunt proident aliquip. Irure mollit officia est Lorem esse aliquip anim laborum ea laboris sit id voluptate. Quis ullamco consequat ipsum mollit ut aliquip minim amet sunt id velit nulla qui tempor. Laborum pariatur voluptate sunt aute deserunt. Dolore consequat adipisicing pariatur in.",
+      "area": 80,
+      "image": [
+        "https://picsum.photos/1000/500?random=28",
+        "https://picsum.photos/1000/500?random=29",
+        "https://picsum.photos/1000/500?random=30"
+      ],
+      "caseNumber": 197507
+    }
+  ]
+}

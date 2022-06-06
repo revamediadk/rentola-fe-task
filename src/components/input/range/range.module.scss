@@ -1,0 +1,14 @@
+@import "src/styles/vars";
+
+.wrapper {
+  width: 100%;
+}
+
+.range {
+  color: $main-color;
+}
+
+.values {
+  display: flex;
+  justify-content: space-between;
+}

@@ -1,0 +1,43 @@
+@import "src/styles/vars";
+
+.box {
+  padding: 1rem;
+  background-color: $bg-color;
+}
+
+.image {
+  width: 100%;
+
+  @include laptop {
+    flex-basis: 50%;
+  }
+}
+
+.text {
+  @include laptop {
+    flex-basis: 50%;
+  }
+}
+
+.title {
+  font-weight: 700;
+
+  span {
+    text-transform: capitalize;
+  }
+}
+
+.address {
+  color: $text-color-secondary;
+
+}
+
+.detail {
+  display: flex;
+  justify-content: space-between;
+  margin: 0.25rem 0;
+}
+
+.label {
+  color: $text-color-secondary;
+}

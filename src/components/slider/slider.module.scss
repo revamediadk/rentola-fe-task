@@ -1,0 +1,32 @@
+@import "src/styles/vars";
+
+.image {
+  object-fit: cover;
+}
+
+.arrow {
+  color: $color-white;
+  opacity: 0.8;
+  z-index: 1;
+
+  &.prev {
+    left: 0.5rem !important;
+  }
+
+  &.next {
+    right: 0.5rem !important;
+  }
+
+  &:hover {
+    color: $color-white;
+    opacity: 1;
+  }
+
+  &::before {
+    display: none;
+  }
+}
+
+.thumb {
+  width: 50px;
+}

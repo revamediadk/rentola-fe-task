@@ -1,0 +1,19 @@
+@import "src/styles/vars";
+
+.preview {
+  position: relative;
+  display: block;
+}
+
+.location {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 0.5rem;
+  text-align: center;
+  font-size: $font_small;
+  color: $text-color-white;
+  background-color: rgba(0, 0, 0, 0.7);
+  z-index: 1;
+}

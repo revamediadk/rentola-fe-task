@@ -1,0 +1,27 @@
+@import "src/styles/vars";
+
+.detail {
+  flex-grow: 1;
+  display: flex;
+  column-gap: 0.25rem;
+  align-items: center;
+  font-size: $font_small;
+
+  @include laptop {
+    flex-direction: column;
+  }
+}
+
+.label {
+  color: $text-color-pink;
+}
+
+.value {
+  text-transform: capitalize;
+  color: $text-color-secondary;
+  margin-left: auto;
+
+  @include laptop {
+    margin-left: 0;
+  }
+}

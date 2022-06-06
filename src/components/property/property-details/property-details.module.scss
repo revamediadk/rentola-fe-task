@@ -1,0 +1,9 @@
+@import "src/styles/vars";
+
+.details {
+  @include laptop {
+    display: flex;
+    justify-content: space-between;
+    column-gap: 0.5rem;
+  }
+}
