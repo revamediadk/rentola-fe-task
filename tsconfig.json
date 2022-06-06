@@ -1,0 +1,12 @@
+{
+  "extends": "./tsconfig.base.json",
+  "compilerOptions": {
+    "noEmit": true,
+    "module": "ES2020",
+    "moduleResolution": "node",
+    "jsx": "preserve",
+    "baseUrl": "src"
+  },
+  "include": ["src/**/*.ts", "src/**/*.tsx", "src/index.js"],
+  "exclude": ["node_modules"]
+}
