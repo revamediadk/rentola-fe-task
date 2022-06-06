@@ -1,0 +1,59 @@
+@import "vars";
+
+body {
+  background-color: $bg-body !important;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+a {
+  text-decoration: none;
+}
+
+p {
+  margin: 0;
+}
+
+/* slider */
+.swiper-button-next, .swiper-button-prev {
+  color: $color-white;
+
+  &::after {
+    font-size: 2rem;
+  }
+}
+
+.slick-dots {
+  position: static;
+  display: flex !important;
+  column-gap: 0.5rem;
+  text-align: left;
+
+  li {
+    width: auto;
+    height: auto;
+    margin: 0;
+  }
+}
+
+/* select mui */
+.MuiSelect-select {
+  text-transform: capitalize;
+}
+
+.MuiOutlinedInput-root.MuiInputBase-root.MuiInputBase-colorPrimary.Mui-focused .MuiOutlinedInput-notchedOutline {
+  border-color: $main-color;
+}
+
+.MuiInputLabel-root.Mui-focused {
+  color: $text-color-main;
+}
+
+/* mui */
+.MuiDivider-fullWidth {
+  margin: 1rem 0;
+}

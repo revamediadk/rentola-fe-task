@@ -1,0 +1,24 @@
+@import "src/styles/vars";
+
+.button {
+  font-size: $font_small;
+  text-transform: none;
+}
+
+.contained {
+  background-color: $color-green;
+  color: $text-color-white;
+
+  &:hover {
+    background-color: $color-green;
+
+    @include laptop {
+      background-color: $color-green-light;
+    }
+  }
+}
+
+.outlined {
+  border: 1px solid $color-black;
+  color: $text-color-main;
+}

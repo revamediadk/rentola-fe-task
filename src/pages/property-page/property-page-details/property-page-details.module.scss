@@ -1,0 +1,56 @@
+@import "src/styles/vars";
+
+.box {
+  padding: 1rem;
+  margin-bottom: 2rem;
+  background-color: $bg-color;
+}
+
+.inner {
+  @include laptop {
+    display: flex;
+    column-gap: 2rem;
+  }
+}
+
+.image {
+  width: 100%;
+
+  @include laptop {
+    width: 50%;
+    flex-basis: 50%;
+  }
+}
+
+.text {
+  @include laptop {
+    flex-basis: 50%;
+  }
+}
+
+.title {
+  font-weight: 700;
+
+  span {
+    text-transform: capitalize;
+  }
+}
+
+.address {
+  color: $text-color-secondary;
+
+}
+
+.detail {
+  display: flex;
+  justify-content: space-between;
+  margin: 0.25rem 0;
+}
+
+.label {
+  color: $text-color-secondary;
+}
+
+.icon {
+  color: $color-green
+}

@@ -1,0 +1,38 @@
+$main-color: #f24c4b;
+
+$color-black: #222;
+$color-white: #fff;
+$color-green: #1ed366;
+$color-green-light: #23f175;
+$color-blue: #1481f8;
+
+$bg-color: #fff;
+$bg-body: #fafafa;
+$border: #e5e7eb;
+
+/* fonts */
+$text-color-main: #222;
+$text-color-secondary: #838383;
+$text-color-white: #fff;
+$text-color-pink: #ff9797;
+
+$font_small: .875rem;
+$font_normal: 1.0625rem;
+$font_large: 1.1875rem;
+$font_huge: 1.375rem;
+
+/* adaptive */
+$tablet: 767px;
+$laptop: 1024px;
+
+@mixin tablet {
+  @media (min-width: $tablet) {
+    @content
+  }
+}
+
+@mixin laptop {
+  @media (min-width: $laptop) {
+    @content
+  }
+}
